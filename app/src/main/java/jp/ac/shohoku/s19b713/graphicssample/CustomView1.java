@@ -37,7 +37,6 @@ public class CustomView1 extends View{
         canvas.drawRect(new Rect(5, 5, w - 10, h - 10), p);
 
 
-
         for(int i = 0; i<10; i++){
             Paint p2 = new Paint();
             p2.setStyle(Style.FILL);
